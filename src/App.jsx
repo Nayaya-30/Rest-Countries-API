@@ -1,20 +1,26 @@
-import { useState, useEffect, useRef, useContext } from 'react'
-import { Countrypage } from './pages/Countrypage.jsx';
-import { Homepage } from './pages/Homepage.jsx';
-import { Head } from './components/Header.jsx'
-import 'rsuite/dist/rsuite.min.css';
-import './App.css'
-
+import React from "react";
+import { lightTheme, darkTheme } from "./utils/theme.js";
+import { ThemeProvider } from "@mui/material/styles";
+import CssBaseline from "@mui/material/CssBaseline";
+import { useSelector } from "react-redux";
+import { Countrypage } from "./pages/Countrypage.jsx";
+import { Homepage } from "./pages/Homepage.jsx";
+import { Heading } from "./components/Header.jsx";
+import "./App.css";
 
 function App() {
-    console.log('App')
+    const darkMode = useSelector((state) => state.theme.darkMode);
+
     return (
-        <main className={'bg'}>
-            <Head />
-            <Homepage />
-            <Countrypage />
-        </main>
-    )
+        <ThemeProvider theme={darkMode ? lightTheme : darkTheme}>
+            <CssBaseline />
+            <main className="bg">
+                <Heading />
+                <Homepage />
+                <Countrypage />
+            </main>
+        </ThemeProvider>
+    );
 }
 
-export default App
+export default App;
