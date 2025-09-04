@@ -1,7 +1,7 @@
 import { Stack, Typography } from "@mui/material";
 import ThemeToggle from "./themeToggle/ThemeToggle.jsx";
 
-export const Heading = () => {
+const Heading = () => {
     return (
         <Stack
             direction="row"
@@ -16,3 +16,5 @@ export const Heading = () => {
         </Stack>
     );
 };
+
+export default Heading;

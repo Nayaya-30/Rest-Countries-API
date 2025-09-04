@@ -1,5 +1,5 @@
-import { Card } from '../components/home/Card.jsx'
-import { Filters } from '../components/home/Filter.jsx'
+import Card from '../components/home/Card.jsx'
+import Filters from '../components/home/Filter.jsx'
 import SearchInput from '../components/home/Search.jsx'
 import { Stack } from '@mui/material'
 

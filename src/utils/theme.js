@@ -36,14 +36,13 @@ export const lightTheme = createTheme({
 
 // Dark Theme
 export const darkTheme = createTheme({
-    cssThemeVariables: true, // still valid, but requires CssVarsProvider
     spacing,
     palette: {
         mode: "dark",
         border: { main: "#2563eb" }, // blue-600
         bgcolor: {
             body: "#172554", // blue-950
-            elements: "#1e3a8a", // blue-900
+            elements: "#0D47A1", // blue-900
         },
         text: {
             primary: "#f3f4f6", // gray-100

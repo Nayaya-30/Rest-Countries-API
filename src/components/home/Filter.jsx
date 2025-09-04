@@ -1,55 +1,58 @@
 import { MenuItem, Select, FormControl, InputLabel } from '@mui/material'
-import { useState } from 'react'
+import { useDispatch, useSelector } from 'react-redux'
+import { setRegion } from "/src/slices/countrySlice.js";
 
-// /**
-//  * @param {{ onRegionChange?: (region: string) => void }} props
-//  */
-export const Filters = () => {
-    const [selectedRegion, setSelectedRegion] = useState('')
+const Filters = () => {
+    const dispatch = useDispatch();
+    const region = useSelector(state => state.country.region);
+    console.log(region)
 
-    /** @type {string[]} */
-    const regions = ['Africa', 'America', 'Asia', 'Europe', 'Oceania']
-
-    const handleRegionChange = (event) => {
-        const value = event.target.value
-        setSelectedRegion(value)
-    }
+    const regions = ['All', 'Africa', 'America', 'Asia', 'Europe', 'Oceania'];
 
     return (
         <FormControl
             sx={{
                 minWidth: 200,
-                color: 'text.primary',
-                backgroundColor: 'bgcolor.elements'}}
+                borderRadius: 2,
+                backgroundColor: 'background.paper',
+            }}
             size="small"
         >
-            <InputLabel fontWeight={'bold'} id="region-select-label">Region</InputLabel>
+            <InputLabel
+                id="region-select-label"
+                sx={{ fontWeight: 'bold' }}
+            >
+                Region
+            </InputLabel>
             <Select
-                variant='outlined'
+                variant="outlined"
                 labelId="region-select-label"
                 id="region-select"
-                value={selectedRegion}
-                onChange={handleRegionChange}
+                value={region}
+                onChange={(e) => dispatch(setRegion(e.target.value))}
                 label="Region"
                 sx={{
-                    borderColor: 'text.primary',
-                    color: 'text.primary',
-                    backgroundColor: 'bgcolor.elements',
                     borderRadius: 2,
-                    '&:hover': {
-                        borderColor: 'border.main',
-                    }
+                    color: 'text.primary',
+                    '& .MuiOutlinedInput-notchedOutline': {
+                        borderColor: 'text.primary',
+                    },
+                    '&:hover .MuiOutlinedInput-notchedOutline': {
+                        borderColor: 'primary.main',
+                    },
+                    '&.Mui-focused .MuiOutlinedInput-notchedOutline': {
+                        borderColor: 'primary.main',
+                    },
                 }}
             >
-                {regions.map((region) => (
-                    <MenuItem
-                        key={region}
-                        value={region}
-                    >
+                {regions.map(region => (
+                    <MenuItem key={region} value={region} sx={{ fontWeight: 500 }}>
                         {region}
                     </MenuItem>
                 ))}
             </Select>
         </FormControl>
-    )
-}
+    );
+};
+
+export default Filters;

@@ -5,7 +5,7 @@ import CssBaseline from "@mui/material/CssBaseline";
 import { useSelector } from "react-redux";
 import { Countrypage } from "./pages/Countrypage.jsx";
 import { Homepage } from "./pages/Homepage.jsx";
-import { Heading } from "./components/Header.jsx";
+import Heading from "./components/Header.jsx";
 import "./App.css";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
     return (
         <ThemeProvider theme={darkMode ? lightTheme : darkTheme}>
             <CssBaseline />
-            <main className="bg">
+            <main className="">
                 <Heading />
                 <Homepage />
                 <Countrypage />

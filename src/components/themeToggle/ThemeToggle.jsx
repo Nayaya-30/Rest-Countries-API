@@ -1,9 +1,7 @@
-// ThemeToggle.jsx
-import React from "react";
 import { Button } from "@mui/material";
 import { FaSun, FaMoon } from "react-icons/fa";
 import { useDispatch, useSelector } from "react-redux";
-import { toggleDarkMode } from "./themeToggleSlice";
+import { toggleDarkMode } from "../../slices/themeToggleSlice";
 
 
 function ThemeToggle() {
@@ -12,12 +10,12 @@ function ThemeToggle() {
 
     return (
         <Button
-            variant="outlined"
+            variant="text"
             aria-label="Toggle dark mode"
             color="text.primary"
             sx={{
                 boxShadow: 2,
-                textTransform: 'none',
+                textTransform: 'none', // Prevents all caps
             }}
             size="medium"
             startIcon={darkMode ? <FaMoon /> : <FaSun />}
