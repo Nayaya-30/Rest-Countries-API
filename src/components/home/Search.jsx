@@ -10,6 +10,7 @@ const SearchInput = () => {
 
     return (
         <TextField
+            name='search'
             placeholder="Search for a country..."
             variant="outlined"
             size="small"

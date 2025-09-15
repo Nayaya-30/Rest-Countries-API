@@ -11,7 +11,7 @@ export const filteredCountries = createSelector(
       const matchesRegion =
         region === 'All' || c.region === region;
       const matchesSearch =
-        c.name.toLowerCase().includes(searchTerm.toLowerCase());
+        c.name.common.toLowerCase().includes(searchTerm.toLowerCase());
 
       return matchesRegion && matchesSearch;
     });

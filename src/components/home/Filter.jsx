@@ -1,20 +1,24 @@
 import { MenuItem, Select, FormControl, InputLabel } from '@mui/material'
 import { useDispatch, useSelector } from 'react-redux'
-import { setRegion } from "/src/slices/countrySlice.js";
+import { setRegion, setSearchTerm } from "/src/slices/countrySlice.js";
 
 const Filters = () => {
     const dispatch = useDispatch();
     const region = useSelector(state => state.country.region);
     console.log(region)
 
-    const regions = ['All', 'Africa', 'America', 'Asia', 'Europe', 'Oceania'];
+    const regions = ['All', 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
+    function handleRegionChange(e) {
+        dispatch(setRegion(e.target.value));
+        dispatch(setSearchTerm('')); // Clear search term when region changes
+    }
 
     return (
         <FormControl
             sx={{
                 minWidth: 200,
                 borderRadius: 2,
-                backgroundColor: 'background.paper',
+                backgroundColor: 'bgcolor.element',
             }}
             size="small"
         >
@@ -29,7 +33,7 @@ const Filters = () => {
                 labelId="region-select-label"
                 id="region-select"
                 value={region}
-                onChange={(e) => dispatch(setRegion(e.target.value))}
+                onChange={handleRegionChange}
                 label="Region"
                 sx={{
                     borderRadius: 2,

@@ -17,6 +17,9 @@ const countrySlice = createSlice({
         setRegion: (state, action) => {
             state.region = action.payload;
         },
+        // setData: (state, action) => {
+        //     state.data = action.payload;
+        // }
     },
     extraReducers: builder => {
         builder
@@ -25,7 +28,7 @@ const countrySlice = createSlice({
             })
             .addCase(fetchCountries.fulfilled, (state, action) => {
                 state.status = 'succeeded.';
-                state.countries = action.payload;
+                state.data = action.payload;
             })
             .addCase(fetchCountries.rejected, (state, action) => {
                 state.status = 'failed!';

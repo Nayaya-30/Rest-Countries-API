@@ -1,0 +1,2014 @@
+{
+  "Togo": [
+    {
+      "leader": "Faure Essozimna Gnassingbé",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President of Togo Faure Gnassingbé on November 13, 2024 (cropped).jpg"
+    }
+  ],
+  "Cook Islands": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Mark Brown",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark Brown G7 2023.jpg"
+    }
+  ],
+  "Niue": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Dalton Tagelagi",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Niue Premier Dalton Tagelagi on 25 September 2023 - 53214108645 (cropped).jpg"
+    }
+  ],
+  "Cameroon": [
+    {
+      "leader": "Paul Biya",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul Biya in December 14th, 2022.jpg"
+    },
+    {
+      "leader": "Joseph Ngute",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BOOK OF CONDOLENCE (52364883717) (cropped).jpg"
+    }
+  ],
+  "Uganda": [
+    {
+      "leader": "Yoweri Museveni",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoweri Museveni September 2015.jpg"
+    },
+    {
+      "leader": "Robinah Nabbanja",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robinah Nabbanja.jpg"
+    }
+  ],
+  "South Sudan": [
+    {
+      "leader": "Salva Kiir Mayardit",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salva Kiir Mayardit.jpg"
+    }
+  ],
+  "Brunei": [
+    {
+      "leader": "Hassanal Bolkiah I of Brunei",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sultan Hassanal Bolkiah - 53857993945.jpg"
+    }
+  ],
+  "Iran": [
+    {
+      "leader": "Ali Khamenei",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali Khamenei 2025 (3x4 cropped).jpg"
+    },
+    {
+      "leader": "Masoud Pezeshkian",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Masoud Pezeshkian 20250202 (cropped).jpg"
+    }
+  ],
+  "Eritrea": [
+    {
+      "leader": "Isaias Afwerki",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambassador Nura Abba Rimi & President Isaias Afwerki of Eritrea (cropped).jpg"
+    }
+  ],
+  "Tajikistan": [
+    {
+      "leader": "Emomali Rahmon",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emomali Rahmon on April 3, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Kokhir Rasulzoda",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kokhir Rasulzoda.jpg"
+    }
+  ],
+  "Pakistan": [
+    {
+      "leader": "Asif Ali Zardari",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asif Ali Zardari - 2024 (cropped 2).jpg"
+    },
+    {
+      "leader": "Shehbaz Sharif",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shehbaz Sharif in 2024.jpg"
+    }
+  ],
+  "Bhutan": [
+    {
+      "leader": "Jigme Khesar Namgyel Wangchuck",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister of Bharat Shri Narendra Damodardas Modi with Jigme Khesar Namgyel Wangchuck and Jetsun Pema (cropped).jpg"
+    },
+    {
+      "leader": "Tshering Tobgay",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tshering Tobgay.jpg"
+    }
+  ],
+  "Djibouti": [
+    {
+      "leader": "Ismail Omar Guelleh",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ismail Omar Guelleh 2010.jpg"
+    },
+    {
+      "leader": "Dileita Mohamed Dileita",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dileita Mohamed Dileita detail 090114-F-3682S-269.jpg"
+    },
+    {
+      "leader": "Abdoulkader Kamil Mohamed",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Djiboutian PM Mohamed at the MOD 2019 (1) (cropped).jpg"
+    }
+  ],
+  "Nicaragua": [
+    {
+      "leader": "Daniel Ortega",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel Ortega Saavedra Diciembre 2024 (3x4 cropped).jpg"
+    }
+  ],
+  "Ivory Coast": [
+    {
+      "leader": "Alassane Ouattara",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alassane Ouattara - 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Robert Beugré Mambé",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert Beugré Mambé 2.jpg"
+    }
+  ],
+  "Republic of the Congo": [
+    {
+      "leader": "Denis Sassou-Nguesso",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Denis Sassou Nguesso 2014.jpg"
+    },
+    {
+      "leader": "Anatole Collinet Makosso",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anatole Collinet Makosso 2022 (cropped).jpg"
+    }
+  ],
+  "Jordan": [
+    {
+      "leader": "Abdullah II of Jordan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdullah II portrait crop 2 at 10 Downing Street June 2025.jpg"
+    },
+    {
+      "leader": "Bisher Al-Khasawneh",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bisher Al-Khasawneh (cropped).jpg"
+    }
+  ],
+  "Lesotho": [
+    {
+      "leader": "Letsie III of Lesotho",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Letsie III.jpg"
+    },
+    {
+      "leader": "Sam Matekane",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam Matekane candidate (cropped).jpg"
+    }
+  ],
+  "Morocco": [
+    {
+      "leader": "Mohammed VI of Morocco",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Mohammed VI (cropped).jpg"
+    },
+    {
+      "leader": "Aziz Akhannouch",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fumio Kishida and Aziz Akhannouch before the funeral of Shinzo Abe (1) (cropped).jpg"
+    }
+  ],
+  "Cape Verde": [
+    {
+      "leader": "José Maria Neves",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/José Maria Neves, 2023.jpg"
+    },
+    {
+      "leader": "Ulisses Correia e Silva",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/José Ulisses Correia e Silva 2024.jpg"
+    }
+  ],
+  "Central African Republic": [
+    {
+      "leader": "Faustin-Archange Touadéra",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit of Faustin-Archange Touadéra, President of the Central African Republic, to the European Commission (P067074-430913, cropped).jpg"
+    },
+    {
+      "leader": "Félix Moloua",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Felix Moloua.png"
+    }
+  ],
+  "Laos": [
+    {
+      "leader": "Thongloun Sisoulith",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thongloun Sisoulith in Kazan - 2024 (cropped 2).jpg"
+    },
+    {
+      "leader": "Phankham Viphavan",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phankham Viphavanh on December 14, 2022 (cropped).jpg"
+    }
+  ],
+  "State of Palestine": [
+    {
+      "leader": "Mahmoud Abbas",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The Prime Minister meets Mahmoud Abbas (53272300740) (cropped).jpg"
+    },
+    {
+      "leader": "Mohammad Mustafa",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad Mustafa January 2025.jpg"
+    }
+  ],
+  "Aruba": [
+    {
+      "leader": "William Alexander of the Netherlands",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022 Willem-Alexander and Máxima (cropped King Willem-Alexander).jpg"
+    },
+    {
+      "leader": "Evelyn Wever-Croes",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Evelyn Wever-Croes, 2022.jpg"
+    }
+  ],
+  "Sint Maarten": [
+    {
+      "leader": "William Alexander of the Netherlands",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022 Willem-Alexander and Máxima (cropped King Willem-Alexander).jpg"
+    },
+    {
+      "leader": "Eugene Holiday",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eugene Holiday 2015.jpg"
+    },
+    {
+      "leader": "Leona Marlin-Romeo",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leona Marlin-Romeo.jpg"
+    }
+  ],
+  "Kingdom of the Netherlands": [
+    {
+      "leader": "William Alexander of the Netherlands",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022 Willem-Alexander and Máxima (cropped King Willem-Alexander).jpg"
+    },
+    {
+      "leader": "Dick Schoof",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dick Schoof, November 2024.jpg"
+    }
+  ],
+  "Liberia": [
+    {
+      "leader": "George Weah",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/George Weah in 2019 (cropped) mod-2.jpg"
+    },
+    {
+      "leader": "Joseph Boakai",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph Boakai in Yokohama (cropped).jpg"
+    }
+  ],
+  "Sierra Leone": [
+    {
+      "leader": "Julius Maada Bio",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Julius Maada Bio - 2023 (cropped).jpg"
+    },
+    {
+      "leader": "David Sengeh",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/David Moinina Sengeh in Boston in 2013 (cropped).jpg"
+    }
+  ],
+  "Somalia": [
+    {
+      "leader": "Hassan Sheikh Mohamud",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hassan Sheikh Mohamud--StateDept Portrait-- (cropped).jpg"
+    },
+    {
+      "leader": "Mohamed Hussein Roble",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed Hussein Roble.jpg"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "leader": "Salman bin Abdulaziz Al Saud",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/الصورة الرسمية لخادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود.jpg"
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "leader": "Emmerson Mnangagwa",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmerson Mnangagwa Official Portrait (cropped).jpg"
+    }
+  ],
+  "Comoros": [
+    {
+      "leader": "Azali Assoumani",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azali Assoumani in New York City on September 19, 2023 - 53199606411 (cropped).jpg"
+    }
+  ],
+  "Namibia": [
+    {
+      "leader": "Netumbo Nandi-Ndaitwah",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Netumbo Nandi-Ndaitwah(cropped).jpg"
+    },
+    {
+      "leader": "Elijah Ngurare",
+      "role": "Prime Minister",
+      "image_url": null
+    }
+  ],
+  "Thailand": [
+    {
+      "leader": "Vajiralongkorn",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Rama X official (crop).png"
+    },
+    {
+      "leader": "Paetongtarn Shinawatra",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PM Paetongtarn of Thailand (2024) (cropped-4).jpg"
+    }
+  ],
+  "Zambia": [
+    {
+      "leader": "Hakainde Hichilema",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakainde Hichilema in Japan on February 6, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Edgar Lungu",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar Lungu in TICAD VII (cropped).jpg"
+    }
+  ],
+  "Israel": [
+    {
+      "leader": "Isaac Herzog",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Israeli President Isaac Herzog in 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Benjamin Netanyahu",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin Netanyahu, February 2023.jpg"
+    }
+  ],
+  "Philippines": [
+    {
+      "leader": "Bongbong Marcos",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand R. Marcos Jr (cropped).jpg"
+    }
+  ],
+  "Kingdom of Denmark": [
+    {
+      "leader": "Frederik X of Denmark",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederik, Crown Prince of Denmark in 2021.jpg"
+    },
+    {
+      "leader": "Mette Frederiksen",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mette Frederiksen, 2025.06.26 (04) (cropped).jpg"
+    }
+  ],
+  "Rwanda": [
+    {
+      "leader": "Paul Kagame",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul Kagame MSC 2017.jpg"
+    },
+    {
+      "leader": "Édouard Ngirente",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Édouard Ngirente - 2023 (cropped).jpg"
+    }
+  ],
+  "Seychelles": [
+    {
+      "leader": "Wavel Ramkalawan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wavel Ramkalawan - president of Seychelles (cropped).jpg"
+    }
+  ],
+  "Qatar": [
+    {
+      "leader": "Tamim bin Hamad Al",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emir of Qatar on February 19, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Mohammed bin Abdulrahman Al Thani",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed bin Abdulrahman Al-Thani of Qatar on 25 January 2024 - 2 (cropped).jpg"
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "leader": "Mohammed Bin Zayed Al Nahyan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed bin Zayed Al Nahyan - 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Mohammed bin Rashid Al Maktoum",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed bin Rashid Al Maktoum (15-02-2021).jpg"
+    }
+  ],
+  "Malaysia": [
+    {
+      "leader": "Ibrahim Iskandar of Johor",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim Ismail of Johor Rajasekharan 2019.jpg"
+    },
+    {
+      "leader": "Anwar Ibrahim",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PM of Malaysia Anwar Ibrahim meeting with PM of Japan Fumio Kishida (2024) (cropped).jpg"
+    }
+  ],
+  "Nepal": [
+    {
+      "leader": "Ram Chandra Poudel",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President Ram Chandra Poudel, Official portrait (January 2024).jpg"
+    },
+    {
+      "leader": "Pushpa Kamal Dahal",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pushpa Kamal Dahal 2016.jpg"
+    }
+  ],
+  "Myanmar": [
+    {
+      "leader": "Myint Swe",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President Myint Swe at a President Palace of Naypyidaw in April 2016.jpg"
+    },
+    {
+      "leader": "Min Aung Hlaing",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Min Aung Hlaing at the Kremlin on March 4, 2025 (cropped)(b).jpg"
+    }
+  ],
+  "Nigeria": [
+    {
+      "leader": "Bola Ahmed Tinubu",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bola Tinubu portrait.jpg"
+    }
+  ],
+  "Taiwan": [
+    {
+      "leader": "Lai Ching-te",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/賴清德總統 1.jpg"
+    },
+    {
+      "leader": "Cho Jung-tai",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/行政院長 卓榮泰.jpg"
+    }
+  ],
+  "Sri Lanka": [
+    {
+      "leader": "Anura Kumara Dissanayake",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President of Sri Lanka Mr. Anura Kumara Dissanayake in India.jpg"
+    },
+    {
+      "leader": "Harini Amarasuriya",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PM Harini (profile).jpg"
+    }
+  ],
+  "Iraq": [
+    {
+      "leader": "Abdul Latif Rashid",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdul Latif Rashid 2023 (cropped).jpg"
+    },
+    {
+      "leader": "Muhammad Shia' al-Sudani",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed Shia' Al Sudani 2025 (cropped).jpg"
+    }
+  ],
+  "Vietnam": [
+    {
+      "leader": "Tô Lâm",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/To Lam on May 10, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Phạm Minh Chính",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pham Minh Chinh 2021.jpg"
+    }
+  ],
+  "Yemen": [
+    {
+      "leader": "Rashad al-Alimi",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashad al-Alimi - 2022.jpg"
+    },
+    {
+      "leader": "Maeen Abdulmalik Saeed",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maeen Abdulmalek (cropped).jpg"
+    }
+  ],
+  "Mauritania": [
+    {
+      "leader": "Mohamed Ould Ghazouani",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Мухаммед Ульд Газуани 02 (18-02-2022).jpg"
+    },
+    {
+      "leader": "Moctar Ould Djay",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moctar Ould Diay, Ouagadougou, 4 Feb 2019 (cropped).jpg"
+    }
+  ],
+  "Oman": [
+    {
+      "leader": "Haitham bin Tarik Al Said",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Haitham bin Tariq Al Said.jpg"
+    }
+  ],
+  "South Korea": [
+    {
+      "leader": "Lee Jae Myung",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee Jae-myung's Portrait (2025.6.4) (cropped 2).jpg"
+    },
+    {
+      "leader": "Lee Ju-ho",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee Ju-ho Deputy Prime Minister and Minister of Education 20241203.jpg"
+    }
+  ],
+  "Kosovo": [
+    {
+      "leader": "Vjosa Osmani",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vjosa Osmani1.jpg"
+    },
+    {
+      "leader": "Albin Kurti",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albin Kurti (2023-02-18).jpg"
+    }
+  ],
+  "Tunisia": [
+    {
+      "leader": "Kais Saied",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kais Saied 2023.jpg"
+    },
+    {
+      "leader": "Sarra Zaafrani",
+      "role": "Prime Minister",
+      "image_url": null
+    }
+  ],
+  "Tanzania": [
+    {
+      "leader": "Samia Suluhu Hassan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/International leaders sign joint statement at COP26 (51649202102) (Suluhu crop).jpg"
+    }
+  ],
+  "Malawi": [
+    {
+      "leader": "Lazarus Chakwera",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lazarus Chakwera 2017.jpg"
+    }
+  ],
+  "Benin": [
+    {
+      "leader": "Patrice Talon",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrice Talon at USAID HQ (4) (cropped).jpg"
+    }
+  ],
+  "Botswana": [
+    {
+      "leader": "Duma Boko",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duma Boko 2025 (cropped).jpg"
+    }
+  ],
+  "Afghanistan": [
+    {
+      "leader": "Hibatullah Akhundzada",
+      "role": "President",
+      "image_url": null
+    },
+    {
+      "leader": "Mohammad Hasan Akhund",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasan Akhund.png"
+    }
+  ],
+  "Kyrgyzstan": [
+    {
+      "leader": "Sadyr Japarov",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sadyr Japarov in 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Akylbek Japarov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Акылбек Жапаров (19-11-2021).jpg"
+    },
+    {
+      "leader": "Sooronbay Jeenbekov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Премьер-министр Киргизии Сооронбай Жээнбеков.jpg"
+    },
+    {
+      "leader": "Sapar Isakov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapar Isakov (2017-10-11) (cropped).jpg"
+    },
+    {
+      "leader": "Muhammetkaliy Abulgaziyev",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mukhammedkalyi Abylgaziev in January 2019.jpg"
+    },
+    {
+      "leader": "Kubatbek Boronov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kubatbek Boronov (2017-08-24).jpg"
+    },
+    {
+      "leader": "Artyom Novikov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vice Prime Minister of Kyrgyzstan Artyom Novikov.png"
+    },
+    {
+      "leader": "Ulukbek Maripov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister of Kyrgyzstan Ulukbek Maripov.png"
+    },
+    {
+      "leader": "Adylbek Kasymaliev",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adylbek Kasymaliev (2024-14-05).jpg"
+    }
+  ],
+  "Burundi": [
+    {
+      "leader": "Évariste Ndayishimiye",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Эварист Ндайишимие (18-02-2022).jpg"
+    },
+    {
+      "leader": "Gervais Ndirakobuca",
+      "role": "Prime Minister",
+      "image_url": null
+    }
+  ],
+  "The Gambia": [
+    {
+      "leader": "Adama Barrow",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adama Barrow at the 15th OIC Summit.jpg"
+    }
+  ],
+  "São Tomé and Príncipe": [
+    {
+      "leader": "Carlos Vila Nova",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WSIS FORUM 2015 Day 2 - Carlos Vila Nova (cropped).jpg"
+    },
+    {
+      "leader": "Américo Ramos",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Américo Ramos (14-01-2025).jpg"
+    }
+  ],
+  "Angola": [
+    {
+      "leader": "João Lourenço",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President of Angola João Lourenço during a bilateral exchange at the Angola presidential palace in Luanda, Angola, September 27, 2023 - 230927-D-PM193-1914 (cropped).jpg"
+    }
+  ],
+  "Democratic Republic of the Congo": [
+    {
+      "leader": "Félix Tshisekedi",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tshisekedi (46615782065) (cropped).jpg"
+    },
+    {
+      "leader": "Ilunga Ilunkamba Sylvestre",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvestre Ilunga Ilunkamba (cropped).jpg"
+    }
+  ],
+  "Lebanon": [
+    {
+      "leader": "Joseph Aoun",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikos Christodoulides meets with Joseph Aoun (cropped).jpg"
+    },
+    {
+      "leader": "Nawaf Salam",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nawaf Salam.jpg"
+    }
+  ],
+  "Turkmenistan": [
+    {
+      "leader": "Serdar Berdimuhamedow",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Serdar Berdimuhamedov in Japan on April 15, 2025.jpg"
+    }
+  ],
+  "Sudan": [
+    {
+      "leader": "Abdel Fattah al-Burhan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdel Fattah al-Burhan in April 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Abdalla Hamdok",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark Green and Abdalla Hamdok at USAID HQ (2) (cropped).jpg"
+    }
+  ],
+  "Costa Rica": [
+    {
+      "leader": "Rodrigo Chaves",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo Chaves 2022-5-16 Foto by Julieth Mendez (cropped).jpg"
+    }
+  ],
+  "Mali": [
+    {
+      "leader": "Assimi Goïta",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Assimi Goïta in July 2023.jpg"
+    },
+    {
+      "leader": "Choguel Kokalla Maïga",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Choguel Kokalla Maïga (cropped).jpg"
+    }
+  ],
+  "Libya": [
+    {
+      "leader": "Mohamed al-Menfi",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed al-Menfi Summit of NAM Contact Group on fight against COVID-19 73 (cropped).jpg"
+    },
+    {
+      "leader": "Abd al-Hamid Dbeibeh",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit of Abdul Hamid Dbeibah, Prime Minister of the Government of National Unity of Libya, to the European Commission 04 (cropped).jpg"
+    }
+  ],
+  "Guinea": [
+    {
+      "leader": "Mamady Doumbouya",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamadi Doumbouya 2022.jpg"
+    },
+    {
+      "leader": "Bah Oury",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bah Oury.jpg"
+    }
+  ],
+  "Burkina Faso": [
+    {
+      "leader": "Ibrahim Traoré",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/08-05-2025 - RIAN KREMLIN. RU - IBRAHIM TRAORÉ, 2025 (cropped 2).jpg"
+    },
+    {
+      "leader": "Apollinaire Joachim Kyélem de Tambèla",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollinaire Kyelem de Tambèla (cropped).png"
+    }
+  ],
+  "Maldives": [
+    {
+      "leader": "Mohamed Muizzu",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr Muizzu in December 2023.jpg"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "leader": "Mohammad Shahabuddin",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed Shahabuddin.jpg"
+    },
+    {
+      "leader": "Muhammad Yunus",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Muhammad Yunus (cropped).jpg"
+    }
+  ],
+  "Niger": [
+    {
+      "leader": "Abdourahamane Tchiani",
+      "role": "President",
+      "image_url": null
+    },
+    {
+      "leader": "Ali Lamine Zeine",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali Lamine Zeine (2024) (cropped).jpg"
+    }
+  ],
+  "Gabon": [
+    {
+      "leader": "Brice Clotaire Oligui Nguema",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brice Oligui Nguema on November 26, 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Raymond Ndong Sima",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raymond Ndong Sima 2024.jpg"
+    }
+  ],
+  "Senegal": [
+    {
+      "leader": "Bassirou Diomaye Faye",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bassirou Diomaye Faye in Yokohama (cropped).jpg"
+    }
+  ],
+  "Mauritius": [
+    {
+      "leader": "Dharam Gokhool",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dharam Gokhool on March 11, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Pravind Jugnauth",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The Prime Minister, Shri Narendra Modi meeting the Prime Minister of the Republic of Mauritius, Mr. Pravind Kumar Jugnauth, in New Delhi on December 06, 2019 (1) (cropped).jpg"
+    }
+  ],
+  "Belarus": [
+    {
+      "leader": "Alexander Lukashenko",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Александр Лукашенко (13-04-2023) (cropped).jpg"
+    },
+    {
+      "leader": "Alaksandar Turčyn",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aliaksandr Turčyn.png"
+    }
+  ],
+  "Russia": [
+    {
+      "leader": "Vladimir Putin",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Владимир Путин (2025-05-22) cropped.jpg"
+    },
+    {
+      "leader": "Mikhail Mishustin",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mishustin Portrait govru.jpg"
+    }
+  ],
+  "Timor-Leste": [
+    {
+      "leader": "José Ramos-Horta",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-05-20 José Ramos-Horta.jpg"
+    },
+    {
+      "leader": "Xanana Gusmão",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xanana 2011.jpg"
+    }
+  ],
+  "People's Republic of China": [
+    {
+      "leader": "Xi Jinping",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xi Jinping in Beijing on May 13, 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Li Qiang",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Li Qiang meets Mohamed Muizzu (3)(crop).jpg"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "leader": "Henri, Grand Duke of Luxembourg",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saeimas priekšsēdētājs Edvards Smiltēns tiekas ar Luksemburgas lielhercogu - 52744479271 (cropped).jpg"
+    },
+    {
+      "leader": "Luc Frieden",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luc Frieden 2025 (cropped).jpg"
+    }
+  ],
+  "United States": [
+    {
+      "leader": "Donald Trump",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Official Presidential Portrait of President Donald J. Trump (2025).jpg"
+    }
+  ],
+  "Switzerland": [
+    {
+      "leader": "Swiss Federal Council",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/20250312-BR-Wahl-Gruppenfoto.jpg"
+    }
+  ],
+  "Brazil": [
+    {
+      "leader": "Luiz Inácio Lula da Silva",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto oficial de Luiz Inácio Lula da Silva (estreita).jpg"
+    }
+  ],
+  "Turkey": [
+    {
+      "leader": "Recep Tayyip Erdoğan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Recep Tayyip Erdogan in Ukraine.jpg"
+    }
+  ],
+  "Canada": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Mark Carney",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark Carney portrait February 2020.jpg"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Keir Starmer",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister Keir Starmer Portrait (cropped).jpg"
+    }
+  ],
+  "Australia": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Anthony Albanese",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony Albanese portrait (re-crop).jpg"
+    }
+  ],
+  "New Zealand": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Christopher Luxon",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher Luxon 2025 (mid cropped).jpg"
+    }
+  ],
+  "Tuvalu": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Feleti Teo",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Feleti Teo 2024.jpg"
+    }
+  ],
+  "Solomon Islands": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Jeremiah Manele",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Head of the Solomon Islander Delegation to the 12th World Trade Organization Ministerial Conference Jeremiah Manele.jpg"
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "James Marape",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Papua New Guinea Prime Minister James Marape in Port Moresby, Papua New Guinea on July 27, 2023 - 230727-D-TT977-0140 (cropped).jpg"
+    }
+  ],
+  "Saint Vincent and the Grenadines": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Ralph Gonsalves",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ralph Gonsalves (cropped).jpg"
+    }
+  ],
+  "Saint Lucia": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Allen Chastanet",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Allen Chastanet 2016.jpg"
+    }
+  ],
+  "Saint Kitts and Nevis": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Terrance Drew",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terrance Drew 2022.jpg"
+    }
+  ],
+  "Jamaica": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Andrew Holness",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew Holness Press (cropped).jpg"
+    }
+  ],
+  "Grenada": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Dickon Mitchell",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dickon Mitchell 2022-07-01.jpg"
+    }
+  ],
+  "The Bahamas": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Philip \"Brave\" Davis",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister Philip Davis in 2022.jpg"
+    }
+  ],
+  "Antigua and Barbuda": [
+    {
+      "leader": "Charles III",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Charles III (July 2023).jpg"
+    },
+    {
+      "leader": "Gaston Browne",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaston Browne Coronation 2023.jpg"
+    }
+  ],
+  "Sweden": [
+    {
+      "leader": "Carl XVI Gustaf of Sweden",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl XVI Gustaf Tallinnas 2023 (cropped).jpg"
+    },
+    {
+      "leader": "Ulf Kristersson",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulf Kristersson on 29 June 2023.jpg"
+    }
+  ],
+  "Ghana": [
+    {
+      "leader": "John Mahama",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/John Mahama in Yokohama (cropped).jpg"
+    },
+    {
+      "leader": "Nana Akufo-Addo",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nana Akufo Addo, Jan. 2020.jpg"
+    }
+  ],
+  "North Korea": [
+    {
+      "leader": "Kim Jong-un",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim Jong-un April 2019 (cropped).jpg"
+    },
+    {
+      "leader": "Pak Thae-song",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pak Thae-song in Moscow (cropped).jpg"
+    }
+  ],
+  "Ireland": [
+    {
+      "leader": "Michael D. Higgins",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022 Michael D. Higgins (51988246304) (cropped).jpg"
+    },
+    {
+      "leader": "Micheál Martin",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Micheál Martin TD (cropped).jpg"
+    }
+  ],
+  "Norway": [
+    {
+      "leader": "Harald V of Norway",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King Harald V 2021.jpg"
+    },
+    {
+      "leader": "Jonas Gahr Støre",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister Gahr Store in April 2025.jpg"
+    }
+  ],
+  "Cambodia": [
+    {
+      "leader": "Norodom Sihamoni",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceremonial Reception of the King of Cambodia, Norodom Sihamoni on May 30, 2023 (3x4 cropped).jpg"
+    },
+    {
+      "leader": "Hun Manet",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hun Manet in Australia on March 5, 2024.jpg"
+    }
+  ],
+  "Bahrain": [
+    {
+      "leader": "Hamad II of Bahrain",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamad bin Isa Al Khalifah on September 12, 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Salman bin Hamad, Crown Prince of Bahrain",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kingdom of Bahrain Crown Prince and Prime Minister, His Royal Highness Salman bin Hamad Al Khalifa (Salman bin Hamad bin Isa Al Khalifa) participates in a bilateral exchange at the Pentagon on September 14, 2023 (cropped).jpg"
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "leader": "Ilham Aliyev",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilham Aliyev 2024 (İlham Əliyevin) (cropped).jpg"
+    },
+    {
+      "leader": "Ali Asadov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Али Асадов (25-08-2022).jpg"
+    }
+  ],
+  "Liechtenstein": [
+    {
+      "leader": "Hans-Adam II, Prince of Liechtenstein",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fürst Hans-Adam II. von und zu Liechtenstein.jpg"
+    },
+    {
+      "leader": "Daniel Risch",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Risch-Daniel-Portrait-2021-03.jpg"
+    }
+  ],
+  "Croatia": [
+    {
+      "leader": "Zoran Milanović",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zoran Milanović at Palazzo del Quirinale 2021 (11) (cropped).jpg"
+    },
+    {
+      "leader": "Andrej Plenković",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrej Plenković (2025-09-02).jpg"
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "leader": "Shavkat Mirziyoyev",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shavkat Mirziyoyev official portrait (cropped 2).jpg"
+    },
+    {
+      "leader": "Abdulla Aripov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdulla Aripov (2019-05-30).jpg"
+    }
+  ],
+  "Nauru": [
+    {
+      "leader": "David Adeang",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/David Adeang (cropped).jpg"
+    }
+  ],
+  "Venezuela": [
+    {
+      "leader": "Nicolás Maduro",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolás Maduro in 2023 (cropped).jpg"
+    },
+    {
+      "leader": "Juan Guaidó",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan Guaidó 2019 portrait.jpg"
+    }
+  ],
+  "Germany": [
+    {
+      "leader": "Frank-Walter Steinmeier",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank-Walter Steinmeier in 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Friedrich Merz",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2025-02-23 Bundestagswahl – Wahlabend CDU by Sandro Halank–070.jpg"
+    }
+  ],
+  "Austria": [
+    {
+      "leader": "Alexander Van der Bellen",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander Van der Bellen (13-07-2021) (cropped).jpg"
+    },
+    {
+      "leader": "Christian Stocker",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian Stocker, 2025.06.26 (02) (cropped).jpg"
+    }
+  ],
+  "Netherlands": [
+    {
+      "leader": "William Alexander of the Netherlands",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022 Willem-Alexander and Máxima (cropped King Willem-Alexander).jpg"
+    },
+    {
+      "leader": "Dick Schoof",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dick Schoof, November 2024.jpg"
+    }
+  ],
+  "Belgium": [
+    {
+      "leader": "Philippe of Belgium",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit of King Philippe I of Belgium to Ghent European Youth Capital on 25 April 2024 - EU2024BE 240425 Visit of His Majesty the King to Ghent European Youth Capital Ghent JNZT 0078 (53677952391).jpg"
+    },
+    {
+      "leader": "Bart De Wever",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Belgian Prime Minister Bart De Wever (March 2025).jpg"
+    }
+  ],
+  "Spain": [
+    {
+      "leader": "Felipe VI of Spain",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daiga Mieriņa tiekas ar Spānijas karali - 53814974005 (cropped).jpg"
+    },
+    {
+      "leader": "Pedro Sánchez",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Obisk španskega predsednika vlade v Sloveniji (53658605930) (cropped).jpg"
+    }
+  ],
+  "Kenya": [
+    {
+      "leader": "William Ruto",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William Ruto 2023 (cropped).jpg"
+    }
+  ],
+  "Kazakhstan": [
+    {
+      "leader": "Qasym-Jomart Toqaev",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kassym-Jomart Tokayev in January 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Älihan Smaiylov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Älihan Smaiylov (2022-01-24) (cropped).jpg"
+    }
+  ],
+  "Japan": [
+    {
+      "leader": "Naruhito",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor Naruhito 20250611 (54582524056, cropped).jpg"
+    },
+    {
+      "leader": "Shigeru Ishiba",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ishiba Shigeru 20241001 (cropped).jpg"
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "leader": "Željko Komšić",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Željko Komšić 2023 (cropped).jpg"
+    },
+    {
+      "leader": "Željka Cvijanović",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Željka Cvijanović 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Denis Bećirović",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Denis Bećirović at Palazzo del Quirinale, 2024.jpg"
+    },
+    {
+      "leader": "Borjana Krišto",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Borjana Krišto (2025-06-11).jpg"
+    }
+  ],
+  "Egypt": [
+    {
+      "leader": "Abdel Fattah el-Sisi",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AbdelFattah Elsisi (cropped).jpg"
+    },
+    {
+      "leader": "Mostafa Madbouly",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostafa Madbouly (2023) (cropped).jpg"
+    }
+  ],
+  "Finland": [
+    {
+      "leader": "Alexander Stubb",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander Stubb in 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Petteri Orpo",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petteri-Orpo-01 (cropped).jpg"
+    }
+  ],
+  "Colombia": [
+    {
+      "leader": "Gustavo Petro",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente Gustavo Petro Urrego.jpg"
+    }
+  ],
+  "Singapore": [
+    {
+      "leader": "Tharman Shanmugaratnam",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tharman Shanmugaratnam Official photo 2023.tif"
+    },
+    {
+      "leader": "Lawrence Wong",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lawrence Wong 20230526.jpg"
+    }
+  ],
+  "Denmark": [
+    {
+      "leader": "Frederik X of Denmark",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederik, Crown Prince of Denmark in 2021.jpg"
+    },
+    {
+      "leader": "Mette Frederiksen",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mette Frederiksen, 2025.06.26 (04) (cropped).jpg"
+    }
+  ],
+  "South Africa": [
+    {
+      "leader": "Cyril Ramaphosa",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyril Ramaphosa at the White House (54537828678, cropped).jpg"
+    }
+  ],
+  "Malta": [
+    {
+      "leader": "Myriam Spiteri Debono",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Myriam Spiteri Debono on April 20, 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Robert Abela",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert Abela - Official Portrait 2022 (cropped).jpg"
+    }
+  ],
+  "Cuba": [
+    {
+      "leader": "Miguel Díaz-Canel",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit by Cuban President Miguel Díaz-Canel to Khamenei's office in 2023 (8) (cropped).jpg"
+    },
+    {
+      "leader": "Manuel Marrero Cruz",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel Marrero Cruz before the funeral of Shinzo Abe.jpg"
+    }
+  ],
+  "Czech Republic": [
+    {
+      "leader": "Petr Pavel",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petr Pavel.jpg"
+    },
+    {
+      "leader": "Petr Fiala",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petr Fiala (2024) (cropped).jpg"
+    }
+  ],
+  "Indonesia": [
+    {
+      "leader": "Prabowo Subianto",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prabowo Subianto 2024 official portrait.jpg"
+    }
+  ],
+  "Algeria": [
+    {
+      "leader": "Abd al-Majid Tabboun",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdelmadjid Tebboune in 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Nadir al-Arbawi",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nadir Larbaoui 2023.jpg"
+    }
+  ],
+  "Latvia": [
+    {
+      "leader": "Edgars Rinkēvičs",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgars Rinkēvičs as president-elect, 2023-05-31 (cropped).jpg"
+    },
+    {
+      "leader": "Evika Siliņa",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Evika Siliņa (2024) (cropped).jpg"
+    }
+  ],
+  "France": [
+    {
+      "leader": "Emmanuel Macron",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel Macron - June 2025.jpg"
+    },
+    {
+      "leader": "François Bayrou",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/François Bayrou 2025 (re-cropped).jpg"
+    }
+  ],
+  "Andorra": [
+    {
+      "leader": "Emmanuel Macron",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel Macron - June 2025.jpg"
+    },
+    {
+      "leader": "Josep-Lluís Serrano Pentinat",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JLSerranoP.jpg"
+    },
+    {
+      "leader": "Xavier Espot Zamora",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xavier Espot Zamora in 2024 (cropped).jpg"
+    }
+  ],
+  "Armenia": [
+    {
+      "leader": "Vahagn Khachatryan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vahagn Khachaturyan 2022 (Վահագն Գառնիկի Խաչատուրյան) (cropped).jpg"
+    },
+    {
+      "leader": "Nikol Pashinyan",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikol Pashinyan in Tirana, Albania on May 15, 2025 (cropped).jpg"
+    }
+  ],
+  "Italy": [
+    {
+      "leader": "Sergio Mattarella",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sergio Mattarella Presidente della Repubblica Italiana.jpg"
+    },
+    {
+      "leader": "Giorgia Meloni",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giorgia Meloni Official 2023 crop.jpg"
+    }
+  ],
+  "Mexico": [
+    {
+      "leader": "Claudia Sheinbaum",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claudia Sheinbaum en su conferencia matutina (cropped).jpg"
+    }
+  ],
+  "Vatican City": [
+    {
+      "leader": "Leo XIV",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pope Leo XIV 3 (3x4 cropped) (2).jpg"
+    },
+    {
+      "leader": "Raffaella Petrini",
+      "role": "Prime Minister",
+      "image_url": null
+    }
+  ],
+  "Portugal": [
+    {
+      "leader": "Marcelo Rebelo de Sousa",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcelo Rebelo de Sousa (Web Summit).jpg"
+    },
+    {
+      "leader": "Luís Montenegro",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luís Montenegro, 2025.06.26 (05) (cropped).jpg"
+    }
+  ],
+  "Federated States of Micronesia": [
+    {
+      "leader": "Wesley Simina",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wesley Simina, Federated States of Micronesia President, at the Department of State in Washington, D.C. on March 18, 2024 (cropped).jpg"
+    }
+  ],
+  "Lithuania": [
+    {
+      "leader": "Gitanas Nausėda",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gitanas Nausėda and Ursula von der Leyen (cropped).jpg"
+    },
+    {
+      "leader": "Gintautas Paluckas",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gintautas Paluckas by Augustas Didzgalvis (cropped)(correct angle version).jpg"
+    }
+  ],
+  "Romania": [
+    {
+      "leader": "Nicușor Dan",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President Nicușor Dan Official Portrait (cropped) (3).jpg"
+    },
+    {
+      "leader": "Ilie Bolojan",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilie Bolojan - 6 March 2025 (cropped).jpg"
+    }
+  ],
+  "North Macedonia": [
+    {
+      "leader": "Gordana Siljanovska-Davkova",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gordana Siljanovska-Davkova in 2025 (cropped).jpg"
+    },
+    {
+      "leader": "Hristijan Mickoski",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hristijan Mickoski 2024 (cropped).jpg"
+    }
+  ],
+  "Estonia": [
+    {
+      "leader": "Alar Karis",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alar Karis 2024.jpg"
+    },
+    {
+      "leader": "Kristen Michal",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristen Michal in 2024 (cropped).jpg"
+    }
+  ],
+  "Slovenia": [
+    {
+      "leader": "Nataša Pirc Musar",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nataša Pirc Musar (2023-05-19).jpg"
+    },
+    {
+      "leader": "Robert Golob",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert Golob - (2024) (cropped).jpg"
+    }
+  ],
+  "Bolivia": [
+    {
+      "leader": "Luis Arce",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped II.png"
+    }
+  ],
+  "Chad": [
+    {
+      "leader": "Mahamat Déby Itno",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahamat Déby.jpg"
+    },
+    {
+      "leader": "Idriss Déby",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Idriss Déby at the White House in 2014.jpg"
+    }
+  ],
+  "Chile": [
+    {
+      "leader": "Gabriel Boric",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato Oficial Presidente Boric Font.jpg"
+    }
+  ],
+  "Slovakia": [
+    {
+      "leader": "Peter Pellegrini",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter Pellegrini, 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Robert Fico",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert Fico (54359433078) (cropped).jpg"
+    }
+  ],
+  "Poland": [
+    {
+      "leader": "Karol Nawrocki",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Official portrait of Karol Nawrocki - cropped.jpg"
+    },
+    {
+      "leader": "Donald Tusk",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Premier Donald Tusk KPRM.jpg"
+    }
+  ],
+  "India": [
+    {
+      "leader": "Droupadi Murmu",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President of India Droupadi Murmu official portrait (cropped).jpg"
+    },
+    {
+      "leader": "Narendra Modi",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Official Photograph of Prime Minister Narendra Modi Portrait.png"
+    }
+  ],
+  "Uruguay": [
+    {
+      "leader": "Yamandú Orsi",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yamandú Orsi perfil.png"
+    }
+  ],
+  "Greece": [
+    {
+      "leader": "Konstantinos Tasoulas",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/KonstantinosTasoulas.jpg"
+    },
+    {
+      "leader": "Kyriakos Mitsotakis",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyriakos MITSOTAKIS at European Council - March 2025.jpg"
+    }
+  ],
+  "Paraguay": [
+    {
+      "leader": "Santiago Peña Palacios",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Con Santiago Abascal recepción Paraguay. 12·06·2025 - 54593076338 (cropped).jpg"
+    }
+  ],
+  "Iceland": [
+    {
+      "leader": "Halla Tómasdóttir",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halla Tómasdóttir at Arctic Circle 2024 cropped.jpg"
+    },
+    {
+      "leader": "Kristrún Mjöll Frostadóttir",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristrún Frostadóttir 2021.jpg"
+    }
+  ],
+  "Bulgaria": [
+    {
+      "leader": "Rumen Radev",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Румен Радев (28-04-2022).jpg"
+    },
+    {
+      "leader": "Rossen Jeliazkov",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosen Zhelyazkov and Iliana Ivanova (cropped).jpg"
+    }
+  ],
+  "Palau": [
+    {
+      "leader": "Surangel Whipps Jr.",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Surangel Whipps Jr. on February 12, 2025 (cropped).jpg"
+    }
+  ],
+  "Mongolia": [
+    {
+      "leader": "Khurelsukh Ukhnaa",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukhnaagiin Khürelsükh (Khürelsükh Ukhnaa) (Ухнаагийн Хүрэлсүх), President of Mongolia on 26 April 2024 (cropped).jpg"
+    },
+    {
+      "leader": "Luvsannamsrain Oyun-Erdene",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister Oyun-Erdene Luvsannamsrai of Mongolia discussed space cooperation with NASA at a meeting on 4 August 2023 at the NASA Headquarters in Washington, D.C. (cropped).jpg"
+    }
+  ],
+  "Hungary": [
+    {
+      "leader": "Tamás Sulyok",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sulyok Tamás hivatalos portréja.jpg"
+    },
+    {
+      "leader": "Viktor Orbán",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Viktor Orbán, 2025.06.26 (02) (cropped).jpg"
+    }
+  ],
+  "Samoa": [
+    {
+      "leader": "Va'aletoa Sualauvi II",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Va'aleto'a Sualauvi II profile (cropped).png"
+    },
+    {
+      "leader": "Tuilaʻepa Saʻilele Malielegaoi",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuilaepa Aiono Sailele Malielegaoi 2014 (cropped).jpg"
+    },
+    {
+      "leader": "Fiamē Naomi Mataʻafa",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fiamē Naomi Mataʻafa in 2024 (cropped).jpg"
+    }
+  ],
+  "Cyprus": [
+    {
+      "leader": "Nicos Christodoulides",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikos CHRISTODOULIDES (cropped).jpg"
+    }
+  ],
+  "Argentina": [
+    {
+      "leader": "Javier Milei",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mattarella Milei 2024 (cropped).jpg"
+    }
+  ],
+  "Guyana": [
+    {
+      "leader": "Irfaan Ali",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Irfaan Ali in 2020.jpg"
+    },
+    {
+      "leader": "Mark Phillips",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PM Mark Phillips (cropped).jpg"
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "leader": "Christine Kangaloo",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The Hon Christine Kangaloo.jpg"
+    },
+    {
+      "leader": "Kamla Persad-Bissessar",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamla Persad-Bissesar 2013.jpg"
+    }
+  ],
+  "Montenegro": [
+    {
+      "leader": "Jakov Milatović",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jakov Milatović in 2024 MGR2967 ((cropped).jpg"
+    },
+    {
+      "leader": "Milojko Spajić",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Milojko Spajić at EU-Montenegro Intergovernmental Conference European Council on 26 June 2024 (cropped).jpg"
+    }
+  ],
+  "Guatemala": [
+    {
+      "leader": "Bernardo Arévalo de León",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo Arévalo de León in 2024 (cropped).jpg"
+    }
+  ],
+  "Albania": [
+    {
+      "leader": "Bajram Begaj",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime Minister Keir Starmer meets Albania President Bajram Begaj (54521430145) (cropped).jpg"
+    },
+    {
+      "leader": "Edi Rama",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edi Rama (2024-02-29).jpg"
+    }
+  ],
+  "Fiji": [
+    {
+      "leader": "Wiliame Katonivere",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiliame Katonivere 2022.jpg"
+    },
+    {
+      "leader": "Sitiveni Rabuka",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sitiveni Rabuka (2024) (cropped).jpg"
+    }
+  ],
+  "Ecuador": [
+    {
+      "leader": "Daniel Noboa",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel Noboa en marzo de 2025.jpg"
+    }
+  ],
+  "El Salvador": [
+    {
+      "leader": "Nayib Bukele",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nayib Bukele in the White House, 2025 (cropped).jpg"
+    }
+  ],
+  "Dominica": [
+    {
+      "leader": "Charles Savarin",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Savarin entering (cropped).jpg"
+    },
+    {
+      "leader": "Roosevelt Skerrit",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RooseveltSkerrit.jpg"
+    }
+  ],
+  "Honduras": [
+    {
+      "leader": "Xiomara Castro",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiomara Castro 2024 (cropped).jpg"
+    }
+  ],
+  "Dominican Republic": [
+    {
+      "leader": "Luis Abinader",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/President Luis Abinader at the National Palace of the Dominican Republic in Santo Domingo on April 25, 2024 (cropped).jpg"
+    }
+  ],
+  "Vanuatu": [
+    {
+      "leader": "Nikenike Vurobaravu",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vurobaravu ceremony (cropped).png"
+    },
+    {
+      "leader": "Bob Loughman",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob Loughman 2022.jpg"
+    }
+  ],
+  "Ethiopia": [
+    {
+      "leader": "Taye Atske Selassie",
+      "role": "President",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taye Atske Selassie MFA Portrait.jpg"
+    },
+    {
+      "leader": "Abiy Ahmed",
+      "role": "Prime Minister",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abiy Ahmed 2019.jpg"
+    }
+  ]
+}
