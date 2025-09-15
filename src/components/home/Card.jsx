@@ -1,5 +1,6 @@
-import { Card, CardActions, CardContent, CardMedia, Stack, Button, Typography } from '@mui/material'
+import { Card, CardContent, CardMedia, Stack, Typography } from '@mui/material'
 import { useEffect } from 'react';
+import { useNavigate } from "react-router-dom";
 import { useSelector, useDispatch } from 'react-redux';
 import fetchCountries from '../../utils/fetchCountries.js';
 import filteredCountries from '../../utils/selectors.js';
@@ -13,6 +14,7 @@ const Cards = () => {
     // first method using custom useFetch hook
     // const { data, loading, error } = useFetch('https://restcountries.com/v3.1/independent?status=true');
     // const countryFiltered = useSelector(filteredCountries);
+    // const dispatch = useDispatch();
 
     // useEffect(() => {
     //     if (data) {
@@ -21,12 +23,14 @@ const Cards = () => {
     // }, [data, dispatch]);
 
     // second method using Redux AsyncThunk
+    
     const countryFiltered = useSelector(filteredCountries)
     const status = useSelector(state => state.country.status);
     const dispatch = useDispatch();
+    const navigate = useNavigate();
 
     useEffect(() => {
-        if(status==='idle') dispatch(fetchCountries())
+        if(status === 'idle' || status === 'failed!') dispatch(fetchCountries())
     }, [status, dispatch])
 
     
@@ -45,7 +49,7 @@ const Cards = () => {
                         backgroundColor: 'bgcolor.elements', 
                         color: 'text.primary' 
                     }} 
-                    onClick={() => {}}
+                    onClick={() => navigate(`/country/${c.cca3}`)}
                 >
                     <CardMedia
                         component={'img'}

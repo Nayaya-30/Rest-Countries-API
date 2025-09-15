@@ -1,7 +1,0 @@
-const Header = ({ text }) => {
-    return (
-        <>
-            
-        </>
-    )
-}
