@@ -5,7 +5,6 @@ import { setRegion, setSearchTerm } from "/src/slices/countrySlice.js";
 const Filters = () => {
     const dispatch = useDispatch();
     const region = useSelector(state => state.country.region);
-    console.log(region)
 
     const regions = ['All', 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
     function handleRegionChange(e) {

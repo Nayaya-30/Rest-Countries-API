@@ -1,18 +1,20 @@
 import { Button } from '@mui/material'
 
-const Border = ({ border, onClick }) => {
+const Border = ({ border, onHover, onClick }) => {
     return (
         <>
             <Button
                 variant='filled'
                 aria-label={`Border country: ${border}`}
-                onClick={onClick}
+                onClick={() => onClick(border)}
+                onMouseEnter={() => onHover(border)}
+                onMouseLeave={() => onHover(null)}
                 sx={{ 
                     textTransform: 'none', 
-                    backgroundColor: "bgcolor.element", 
+                    backgroundColor: "bgcolor.elements", 
                     color: 'text.primary', 
                     boxShadow: 4, 
-                    marginBottom: '8px',
+                    marginBottom: '5px',
                     '&:hover': { 
                         backgroundColor: 'bgcolor.body' 
                     } 

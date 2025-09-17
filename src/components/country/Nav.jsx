@@ -9,6 +9,7 @@ export const Nav = ({ text="Back", onClick, icon=<FaArrowLeft />}) => {
                     color: 'text.primary',
                     boxShadow: 4,
                     textTransform: 'none',
+                    backgroundColor: 'bgcolor.elements',
                     '&:hover': { 
                         backgroundColor: 'bgcolor.body' 
                     }

@@ -6,7 +6,6 @@ import { setSearchTerm } from "/src/slices/countrySlice.js";
 const SearchInput = () => {
     const dispatch = useDispatch();
     const searchTerm = useSelector(state => state.country.searchTerm)
-    console.log(searchTerm)
 
     return (
         <TextField
