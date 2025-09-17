@@ -42,7 +42,7 @@ export const darkTheme = createTheme({
         border: { main: "#2563eb" }, // blue-600
         bgcolor: {
             body: "#172554", // blue-950
-            elements: "#0D47A1", // blue-900
+            elements: "#030712", // blue-900
         },
         text: {
             primary: "#f3f4f6", // gray-100

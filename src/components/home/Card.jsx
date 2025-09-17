@@ -47,7 +47,8 @@ const Cards = () => {
                         boxShadow: 3, 
                         borderRadius: 2, 
                         backgroundColor: 'bgcolor.elements', 
-                        color: 'text.primary' 
+                        color: 'text.primary',
+                        cursor: 'pointer',
                     }} 
                     onClick={() => navigate(`/country/${c.cca3}`)}
                 >
@@ -70,7 +71,7 @@ const Cards = () => {
 
                             <Stack spacing={1}>
                                 <Typography variant="body2">
-                                    <strong>Population:</strong> <span sx={{color: 'text.secondary'}}>{c.population}</span>
+                                    <strong>Population:</strong> <span sx={{color: 'text.secondary'}}>{c.population.toLocaleString()}</span>
                                 </Typography>
                                 <Typography variant="body2">
                                     <strong>Region:</strong> <span sx={{color: 'text.secondary'}}>{c.region}</span>
