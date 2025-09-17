@@ -16,38 +16,68 @@ const typography = {
     caption: { fontSize: "0.75rem", lineHeight: "1rem" },
 };
 
-// Light Theme
+// Light Theme - Soft Modern
 export const lightTheme = createTheme({
-    spacing,
-    palette: {
-        mode: "light",
-        border: { main: "#2563eb" }, // blue-600
-        bgcolor: {
-            body: "#f9fafb", // gray-50
-            elements: "#9ca3af", // gray-400
-        },
-        text: {
-            primary: "#030712", // gray-950
-            secondary: "#4b5563", // gray-600
-        },
+  spacing,
+  palette: {
+    mode: "light",
+    border: { main: "#FF6B6B" }, // coral accent
+    bgcolor: {
+      body: "#F8F9FA", // soft pearl white background
+      elements: "#E9ECEF", // gentle gray-blue panels
     },
-    typography,
+    text: {
+      primary: "#212529", // rich charcoal
+      secondary: "#6C757D", // sophisticated gray
+    },
+    primary: {
+      main: "#4DABF7", // vibrant sky blue
+      light: "#74C0FC",
+      dark: "#339AF0",
+    },
+    secondary: {
+      main: "#FF922B", // warm orange
+      light: "#FFA94D",
+      dark: "#F76707",
+    },
+    success: {
+      main: "#51CF66", // fresh mint
+      light: "#69DB7C",
+      dark: "#37B24D",
+    },
+  },
+  typography,
 });
 
-// Dark Theme
+// Dark Theme - Cosmic Night
 export const darkTheme = createTheme({
-    spacing,
-    palette: {
-        mode: "dark",
-        border: { main: "#2563eb" }, // blue-600
-        bgcolor: {
-            body: "#172554", // blue-950
-            elements: "#030712", // blue-900
-        },
-        text: {
-            primary: "#f3f4f6", // gray-100
-            secondary: "#9ca3af", // gray-400
-        },
+  spacing,
+  palette: {
+    mode: "dark",
+    border: { main: "#845EF7" }, // ethereal purple accent
+    bgcolor: {
+      body: "#161B22", // deep space background
+      elements: "#21262D", // midnight slate panels
     },
-    typography,
+    text: {
+      primary: "#F8F9FA", // crisp white
+      secondary: "#ADB5BD", // platinum gray
+    },
+    primary: {
+      main: "#5C7CFA", // electric indigo
+      light: "#748FFC",
+      dark: "#4C6EF5",
+    },
+    secondary: {
+      main: "#BE4BDB", // mystical purple
+      light: "#DA77F2",
+      dark: "#9C36B5",
+    },
+    success: {
+      main: "#20C997", // aquamarine
+      light: "#38D9A9",
+      dark: "#12B886",
+    },
+  },
+  typography,
 });
