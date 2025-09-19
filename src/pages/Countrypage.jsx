@@ -26,7 +26,7 @@ export const Countrypage = () => {
     };
   });
   // lazy load CountryMap component
-  const CountryMap = lazy(() => import('./components/CountryMap'));
+  const CountryMap = lazy(() => import('../components/Country/countryMap.jsx'));
 
   function handlePrev() {
   if (lastBorder.length > 0) {
