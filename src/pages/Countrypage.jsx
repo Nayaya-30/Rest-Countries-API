@@ -6,7 +6,6 @@ import Details from "../components/country/Details.jsx";
 import { useNavigate, useParams } from "react-router-dom";
 import { useState } from "react";
 import { FaHome } from "react-icons/fa";
-import CountryMap from "../components/country/CountryMap.jsx";
 
 export const Countrypage = () => {
   const { id } = useParams();
@@ -26,6 +25,8 @@ export const Countrypage = () => {
       name: match ? match.name.common : iso, // fallback to ISO if no match
     };
   });
+  // lazy load CountryMap component
+  const CountryMap = lazy(() => import('./components/CountryMap'));
 
   function handlePrev() {
   if (lastBorder.length > 0) {

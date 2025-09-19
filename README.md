@@ -1,180 +1,219 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# REST Countries API — color theme switcher (Frontend Mentor)
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This repository is my implementation of the "REST Countries API with color theme switcher" challenge. It is a React frontend that fetches country data, shows a responsive grid of country cards, provides a detail view with an interactive map, and supports a light/dark MUI theme toggle.
 
-## Table of contents
+---
+
+Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Project features](#project-features)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Available scripts](#available-scripts)
+- [Project structure](#project-structure)
+- [How it works](#how-it-works)
+- [What I learned](#what-i-learned)
+- [Errors & troubleshooting](#errors--troubleshooting)
+- [Continued development](#continued-development)
+- [Author & acknowledgments](#author--acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+---
 
 ## Overview
 
-### The challenge
+This project displays countries from the REST Countries API (or from local `data.json` if offline). Users can:
 
-Users should be able to:
+- Browse all countries (paginated / grid)
+- Search countries with debounced input
+- Filter by region
+- Click a country to view details
+- Click on the Flag on the country page to reveal the country map
+- See and navigate to border countries
+- Toggle light/dark theme (MUI)
 
-- See all countries from the API on the homepage
-- Search for a country using an `input` field
-- Filter countries by region
-- Click on a country to see more detailed information on a separate page
-- Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+The UI is responsive and aims to maintain accessible contrast in both themes.
 
-### Screenshot
+---
 
-![](./screenshot.jpg)
+## Project features
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+- Responsive homepage with search and region filter
+- Country card grid with lazy-loaded flags and hover states
+- Country detail page with:
+  - Full info (population, region, capital, currencies, languages)
+  - Interactive map using react-simple-maps
+  - Quick links to border countries
+- Global theme toggle (MUI createTheme) that persists user choice
+- Redux Toolkit for state management and async fetches (createAsyncThunk)
+- Loading and error states, skeletons for better UX
+- Small animation touches via framer-motion
+- Icons via react-icons
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+---
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+## Tech stack
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- React (CRA or similar)
+- Redux Toolkit (slices + createAsyncThunk)
+- Material-UI (MUI v7) — theming & components
+- react-simple-maps + d3-geo — map rendering & geographies
+- framer-motion — transitions/animations
+- react-router-dom — routing
+- react-icons — icons
+- node (for scripts), npm/yarn
 
-### Links
+---
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+## Quick start
 
-## My process
+Requirements: Node 16+ (or your project's node version), npm or yarn.
 
-### Built with
+1. Clone repo
+   git clone [https://github.com/Nayaya-30/Rest-Countries-API.git]
 
-- [React](https://reactjs.org/) - JS library
-- [Redux Toolkit](https://redux-toolkit.js.org/) - State management
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Async actions
-- [Material-UI (MUI)](https://mui.com/) - UI framework
-- [Framer Motion](https://www.framer.com/motion/) - Animations
-- [React Simple Maps](https://www.react-simple-maps.io/) - Interactive maps
-- [React Icons](https://react-icons.github.io/react-icons/) - Icon library
-- [React Router](https://reactrouter.com/) - Routing
-- Responsive Design & Dark Mode
-- Custom Theme Configuration
-- Error Handling & Loading States
+2. Install
+   npm install
+   or
+   yarn
 
-### Key Features
+3. Run dev server
+   npm start
+   or
+   yarn start
 
-#### 1. Dynamic Theme Switching
-- Custom MUI theme configuration for light/dark modes
-- Persistent theme preference storage
-- Smooth transition animations
+4. Build for production
+   npm run build
+   or
+   yarn build
 
-#### 2. Interactive Map Integration
-- Country visualization using React Simple Maps
-- Dynamic zooming and panning
-- Border country highlighting
-- Responsive map sizing
+Notes:
+- If the REST Countries API is down you can point the app to the bundled `data.json` for offline testing.
 
-#### 3. State Management
-- Redux store configuration
-- Async operations with Redux Thunk
-- Cached API responses
-- Loading and error states
+---
 
-#### 4. Performance Optimizations
-- Lazy loading of components
-- Memoized selectors
-- Debounced search
-- Optimized re-renders
+## Available scripts
 
-### What I Learned
+- npm start — run dev server
+- npm run build — production build
+- npm test — run tests (if configured)
+- npm run lint — linter (if configured)
+- node scripts/* — helper scripts (e.g., fetch_leaders.js)
 
-#### 1. Redux Toolkit & Async Operations
+Adjust commands to yarn if you use yarn.
+
+---
+
+## Project structure (important files)
+
+- src/
+  - components/
+    - home/ (SearchBar, FilterRegion, CountryGrid, CountryCard)
+    - country/ (CountryDetail, CountryMap)
+    - themeToggle/ThemeToggle.jsx
+  - slices/ (redux slices: countriesSlice, themeToggleSlice, etc.)
+  - utils/theme.js (MUI theme configuration using createTheme)
+  - styles/ (global.css or similar)
+  - App.jsx, index.jsx
+
+---
+
+## How it works (high level)
+
+- The app fetches countries via an async Redux thunk (createAsyncThunk). Results are cached in Redux state.
+- Theme switching is implemented with MUI's createTheme; a Redux slice stores dark/light selection and persists it to localStorage.
+- Country detail accepts a country selection and uses react-simple-maps to compute a bounding box and center for zooming to the country.
+- Search uses debouncing to avoid spamming API calls and filters the client-side list.
+- Navigation handled with react-router; country detail paths are routable.
+
+---
+
+## What I learned
+
+Key concepts and code snippets I used while building this project:
+
+- Redux Toolkit async thunk
 ```javascript
-// Redux Thunk implementation
-export const fetchCountries = createAsyncThunk(
-  'countries/fetchAll',
-  async (_, { rejectWithValue }) => {
-    try {
-      const response = await fetch('https://restcountries.com/v3.1/all');
-      return await response.json();
-    } catch (error) {
-      return rejectWithValue(error.message);
-    }
-  }
-);
-```
-
-#### 2. MUI Theme Configuration
-```javascript
-// Custom theme creation
-const theme = createTheme({
-  palette: {
-    mode: darkMode ? 'dark' : 'light',
-    // Custom color configurations
-  },
-  typography: {
-    // Custom typography settings
-  }
+// example slice async fetch
+export const fetchCountries = createAsyncThunk('countries/fetchAll', async () => {
+  const res = await fetch('https://restcountries.com/v3.1/all');
+  return res.json();
 });
 ```
 
-#### 3. React Simple Maps Integration
+- MUI theming (createTheme + responsive typography)
+```javascript
+import { createTheme } from '@mui/material/styles';
+const theme = createTheme({
+  palette: { mode: 'dark' },
+  typography: { fontFamily: 'Roboto, sans-serif' }
+});
+```
+
+- react-simple-maps + d3-geo: compute bounds & zoom
 ```jsx
-// Map component implementation
-<ComposableMap>
-  <ZoomableGroup>
-    <Geographies geography={geoUrl}>
-      {({ geographies }) => geographies.map(geo => (
-        <Geography key={geo.rsmKey} geography={geo} />
-      ))}
-    </Geographies>
-  </ZoomableGroup>
-</ComposableMap>
+const path = geoPath();
+const bounds = path.bounds(feature);
 ```
 
-### Challenges & Solutions
-
-#### 1. Dependency Conflicts
-**Issue**: Peer dependency conflicts between react-simple-maps and React versions
-**Solution**: 
-```json
-{
-  "overrides": {
-    "react-simple-maps": {
-      "react": "^19.1.1",
-      "react-dom": "^19.1.1"
-    }
-  }
-}
+- framer-motion for simple enter/exit animations:
+```jsx
+<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} />
 ```
 
-#### 2. Map Rendering Issues
-**Issue**: Map not rendering correctly on different screen sizes
-**Solution**: Implemented responsive design with aspect ratio preservation
+- Using react-icons for compact icon imports:
+```jsx
+import { FaSun, FaMoon } from 'react-icons/fa';
+```
 
-#### 3. Theme Switching Bugs
-**Issue**: Flash of unstyled content during theme switch
-**Solution**: Added CSS variables and transition delays
+---
 
-### Continued development
+## Errors & troubleshooting (real issues encountered)
 
-Future improvements planned:
-- Implement PWA capabilities
-- Add E2E testing with Cypress
-- Optimize bundle size
-- Add more interactive features
+1. Peer dependency / version mismatches
+   - Problem: react-simple-maps and some map/topojson packages expect certain React versions.
+   - Fix: Align React and react-dom versions to the supported range; use package resolutions/overrides when necessary. Test locally after locking versions.
 
-### Useful resources
+2. MUI style flash on theme change
+   - Problem: brief flash when switching theme (FOUC)
+   - Fix: persist theme to localStorage and hydrate before rendering (or wrap app with a theme-loading check) to avoid an initial wrong theme.
 
-- [Redux Toolkit Documentation](https://redux-toolkit.js.org/introduction/getting-started)
-- [MUI Customization Guide](https://mui.com/customization/theming/)
-- [React Simple Maps Examples](https://www.react-simple-maps.io/examples/)
-- [React Performance Optimization](https://reactjs.org/docs/optimizing-performance.html)
+3. Map sizing / responsiveness
+   - Problem: world map not keeping aspect / cropped on small screens.
+   - Fix: use responsive container sizing (width:100%), compute height based on container, or use CSS aspect-ratio and adjust map projection/zoom dynamically.
 
-## Author
+4. CORS / API outages
+   - Problem: REST Countries or external APIs can be unreliable.
+   - Fix: provide a local `data.json` fallback and show a clear offline/error message.
 
-- Frontend Mentor - [@Nayaya-30](https://www.frontendmentor.io/profile/Nayaya-30)
-- Twitter - [@usouff_](https://www.twitter.com/usouff_)
+5. Bundling large geo data
+   - Problem: including large topojson/world-atlas in the bundle increases build size.
+   - Fix: fetch geography files at runtime from CDN (used in this project) or lazy-load the map component.
+
+---
+
+## Continued development
+
+Planned improvements:
+
+- Add E2E tests (Cypress)
+- Improve accessibility audits (axe)
+- Implement PWA + offline caching
+- Add pagination/infinite scroll for the country grid
+- Server-side rendering for improved SEO (if required)
+
+---
+
+## Contributing
+
+- Fork the repo, create a branch for your change, and open a pull request.
+- Keep changes focused and add tests where possible.
+
+---
+
+## Author & acknowledgments
+
+- Author: @Nayaya-30 / @usouff_
+- Thanks to Frontend Mentor for the challenge and to maintainers of the libraries used.
+
+License: MIT
