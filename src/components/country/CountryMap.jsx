@@ -71,7 +71,9 @@ const CountryMap = ({ country, borders, hoveredBorder, onClick, onHover }) => {
             height: "350px", 
             borderRadius: 4, 
             boxShadow: "0 0 5px 7px rgba(0,0,0,0.1)", 
-            backgroundColor: "bgcolor.elements" 
+            backgroundColor: "bgcolor.elements",
+            transform: 'rotateY(180deg)',
+            backfaceVisibility: 'hidden',
         }}
         onClick={onClick}
     >

@@ -4,7 +4,7 @@ const Details = ({ country }) => {
   if (!country) return null;
 
   return (
-    <section>
+    <>
       <Typography variant="h3" mb={8}>
         {country.name.official}
       </Typography>
@@ -96,7 +96,7 @@ const Details = ({ country }) => {
         </Stack>
       </Stack>
 	  </Stack>
-    </section>
+    </>
   );
 };
 

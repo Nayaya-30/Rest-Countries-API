@@ -14,10 +14,32 @@ function ThemeToggle() {
             aria-label="Toggle dark mode"
             color="text.primary"
             sx={{
-                boxShadow: 2,
-                textTransform: 'none', // Prevents all caps
+                textTransform: 'none',
+                fontSize: {
+                    xs: '0.875rem',
+                    sm: '0.925rem',
+                    md: '1rem'
+                },
+                padding: {
+                    xs: '0.5rem',
+                    sm: '0.75rem',
+                    md: '1rem'
+                },
+                '& .MuiButton-startIcon': {
+                    marginRight: {
+                        xs: '0.5rem',
+                        sm: '0.75rem',
+                        md: '1rem'
+                    },
+                    '& svg': {
+                        fontSize: {
+                            xs: '1rem',
+                            sm: '1.25rem',
+                            md: '1.5rem'
+                        }
+                    }
+                }
             }}
-            size="medium"
             startIcon={darkMode ? <FaMoon /> : <FaSun />}
             onClick={() => dispatch(toggleDarkMode())}
         >

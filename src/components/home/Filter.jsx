@@ -17,34 +17,36 @@ const Filters = () => {
             sx={{
                 minWidth: 200,
                 borderRadius: 2,
-                backgroundColor: 'bgcolor.element',
+                backgroundColor: 'bgcolor.elements',
             }}
             size="small"
         >
             <InputLabel
-                id="region-select-label"
-                sx={{ fontWeight: 'bold' }}
+                sx={{ 
+                    fontWeight: 'bold', 
+                    color: 'text.secondary', 
+                    '&.Mui-focused': {
+                        color: 'text.secondary',
+                    }, 
+                }}
             >
                 Region
             </InputLabel>
             <Select
                 variant="outlined"
                 labelId="region-select-label"
-                id="region-select"
                 value={region}
                 onChange={handleRegionChange}
                 label="Region"
                 sx={{
                     borderRadius: 2,
+                    transition: 'all .4s ease-in-out',
                     color: 'text.primary',
-                    '& .MuiOutlinedInput-notchedOutline': {
+                    '&:hover .MuiOutlinedInput-notchedOutline': {
                         borderColor: 'text.primary',
                     },
-                    '&:hover .MuiOutlinedInput-notchedOutline': {
-                        borderColor: 'primary.main',
-                    },
                     '&.Mui-focused .MuiOutlinedInput-notchedOutline': {
-                        borderColor: 'primary.main',
+                        borderColor: 'text.secondary',
                     },
                 }}
             >

@@ -7,7 +7,7 @@ import { Countrypage } from "./pages/Countrypage.jsx";
 import { Homepage } from "./pages/Homepage.jsx";
 import Heading from "./components/Header.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./App.css";
+import '../src/styles/animations.css'
 
 function App() {
   const darkMode = useSelector((state) => state.theme.darkMode);

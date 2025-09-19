@@ -17,7 +17,11 @@ const SearchInput = () => {
             onChange={(e) => dispatch(setSearchTerm(e.target.value))}
             slotProps={{
                 input: {
-                    sx: {borderRadius: 2},
+                    sx: {
+                        borderRadius: 2, '&.Mui-focused .MuiOutlinedInput-notchedOutline': {
+                        borderColor: 'text.secondary',
+                        },
+                    },
                     startAdornment: (
                         <InputAdornment position="start">
                             <IconButton color='text.primary' background={'bgcolor.elements'} size="small">
