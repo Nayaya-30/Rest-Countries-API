@@ -55,7 +55,19 @@ export const Countrypage = () => {
     setFlipped(!flipped);
   }
 
-  if (!country) return <p>Country not found.</p>;
+  if (!country) {
+    return (
+      <Stack
+        alignItems="center"
+        justifyContent="center"
+        sx={{ height: "60vh", px: 2 }}
+      >
+        <Typography variant="h5" align="center" color="text.secondary">
+          Country not found.
+        </Typography>
+      </Stack>
+    );
+  }
   
   return (
     <main className={'max-h-screen'}>
